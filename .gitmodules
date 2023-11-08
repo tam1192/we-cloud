@@ -1,0 +1,9 @@
+[submodule "we-cloud-server"]
+	path = we-cloud-server
+	url = https://github.com/tam1192/we-cloud-server.git
+[submodule "we-cloud-paper"]
+	path = we-cloud-paper
+	url = https://github.com/tam1192/we-cloud-paper.git
+[submodule "we-cloud-fabric"]
+	path = we-cloud-fabric
+	url = https://github.com/tam1192/we-cloud-fabric.git
