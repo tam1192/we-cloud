@@ -8,8 +8,12 @@ build
 bin
 
 # Ignore VScode settings
+<<<<<<< HEAD
 .vscode
 
 # Ignore eclipse plugin
 /.classpath
 /.project
+=======
+.vscode
+>>>>>>> 53feb22a0672063207c324b2c6a3ac1f2d7c485a
