@@ -9,3 +9,7 @@ bin
 
 # Ignore VScode settings
 .vscode
+
+# Ignore eclipse plugin
+/.classpath
+/.project
